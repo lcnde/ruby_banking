@@ -31,4 +31,4 @@ class Account
       end
     end
     
-checking_account = Account.new("Marrymejuliet", "1_000_000_000")
+checking_account = Account.new("Name", "1_000_000_000")
